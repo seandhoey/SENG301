@@ -1,2 +1,2 @@
 # SENG301
-gndgnedkghsdkgn
+https://hcitang.github.io/seng301/#!a1.md
